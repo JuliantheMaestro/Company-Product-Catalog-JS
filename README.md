@@ -1,1 +1,1 @@
-This is some experience for working with objects.
+This is a simple project where I got more practice with using objects and arrays. 
